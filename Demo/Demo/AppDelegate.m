@@ -17,8 +17,7 @@
 
 @implementation AppDelegate
 
-//托尔斯泰
-//application
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     [OCFrameWorkHelper test];
