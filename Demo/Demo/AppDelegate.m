@@ -17,6 +17,7 @@
 
 @implementation AppDelegate
 
+//1
 //托尔斯泰
 //application
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
