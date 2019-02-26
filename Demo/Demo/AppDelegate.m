@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  Demo
+//  Demo 3.26 2019
 //
 //  Created by 靳小飞 on 2018/11/21.
 //  Copyright © 2018 靳小飞. All rights reserved.
@@ -17,11 +17,7 @@
 
 @implementation AppDelegate
 
-//3
-//2
-//1
-//托尔斯泰
-//application
+// 250
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     [OCFrameWorkHelper test];
