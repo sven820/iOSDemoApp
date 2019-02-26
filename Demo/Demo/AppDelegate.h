@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 
 // xfjin
+// 255
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
