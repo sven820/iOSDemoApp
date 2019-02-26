@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-// xfjin
+// t1
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
