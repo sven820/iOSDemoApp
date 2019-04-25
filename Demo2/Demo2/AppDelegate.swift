@@ -13,6 +13,7 @@ import oc_framework
 import swift_framework
 import AFNetworking
 
+//1 软合并
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
